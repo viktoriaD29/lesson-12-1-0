@@ -1,28 +1,31 @@
 html {
-  margin: 32px;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
 
-.title {
+section {
+  margin: 32px;
+}
+
+h1 {
   word-spacing: 20px;
   text-align: center;
   text-transform: uppercase;
 }
 
-.technology {
+p {
   line-height: 28px;
 }
 
-.word {
+a {
+  text-decoration: none;
+}
+
+.technology {
   letter-spacing: 3px;
   font-size: 24px;
   opacity: 80%;
   text-decoration: underline;
-}
-
-.achor {
-  text-decoration: none;
 }
 
 .translation {
