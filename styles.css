@@ -1,0 +1,30 @@
+html {
+  margin: 32px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.title {
+  word-spacing: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.technology {
+  line-height: 28px;
+}
+
+.word {
+  letter-spacing: 3px;
+  font-size: 24px;
+  opacity: 80%;
+  text-decoration: underline;
+}
+
+.achor {
+  text-decoration: none;
+}
+
+.translation {
+  color: gray;
+}
